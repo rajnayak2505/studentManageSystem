@@ -1,0 +1,16 @@
++Admin
+ -id
+ -username
+ -password
+
++Student
+ -roll no
+ -city
+ -username
+ -parent contact
+ -standard
+ -images
+
+
+
+
